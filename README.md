@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cxview.ai](https://cxview.ai/)
 
-- 🌱 I’m currently learning MLOps with **Pytorch, Deepstream, Tensorrt, Kubeflow**
+- 🌱 I’m currently learning MLOps with **Pytorch, Deepstream, Tensorrt, Kubeflow, MLflow**
 
 - 💬 I'm also learning about Big Data with **Hadoop, Spark, Airflow, Big Query, Tableau, Excel**
 
