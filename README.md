@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [cxview.ai](https://cxview.ai/)
 
-- 🌱 I’m working with framework such as **Deepstream, Gstreamer, Tensorflow, Pytorch, Tensorrt, Kubeflow, MLflow**
+- 🌱 I’m working with framework such as **Deepstream, Gstreamer, Tensorflow, Pytorch, TensorRT, MLflow**
 
 - 📫 How to reach me **[linkedin](https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-ho%C3%A0ng-b94516255/)**
 
