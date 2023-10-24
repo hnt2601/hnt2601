@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Hoang, Nguyen Tien</h1>
-<h3 align="center">Computer Vision Engineer @ cxview.ai</h3>
+<h3 align="center">AI Engineer @ FSoft AI Center</h3>
 
 - 🔭 I’m currently working on [AIC]([https://cxview.ai/](https://www.fpt-aicenter.com/))
 
