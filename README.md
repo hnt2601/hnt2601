@@ -11,9 +11,9 @@
 <h1 align="center">Hi 👋, I'm Hoang, Nguyen Tien</h1>
 <h3 align="center">Computer Vision Engineer @ cxview.ai</h3>
 
-- 🔭 I’m currently working on [cxview.ai](https://cxview.ai/)
+- 🔭 I’m currently working on [AIC]([https://cxview.ai/](https://www.fpt-aicenter.com/))
 
-- 🌱 I’m working with framework such as **Deepstream, Gstreamer, Tensorflow, Pytorch, TensorRT, MLflow**
+- 🌱 I’m working with framework such as **Deepstream, Gstreamer, Pytorch, TensorRT, MLflow, TVM, ONNX, Huggingface**
 
 - 📫 How to reach me **[linkedin](https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-ho%C3%A0ng-b94516255/)**
 
