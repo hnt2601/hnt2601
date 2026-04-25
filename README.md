@@ -13,4 +13,4 @@
 
 - 🔭 I’m currently working on [FPT Smart Cloud]([https://ai.fptcloud.com])
 
-- 📫 How to reach me **[linkedin](https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-ho%C3%A0ng-b94516255/)**
+- 📫 How to reach me **[linkedin](www.linkedin.com/in/hoang-nguyen-b94516255)**
